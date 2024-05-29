@@ -1,0 +1,16 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Playpen+Sans:wght@100;200;300;400;500;600;700;800&display=swap');
+
+
+
+.Cabecalho{
+    margin:0;
+    width:100%;
+    height: 8vh;
+    background-color: #2D6a4f ;
+}
+.Cabecalho h1{
+    color: white;
+    font-family: 'Playpen Sans', cursive;
+    text-align: center;
+}
